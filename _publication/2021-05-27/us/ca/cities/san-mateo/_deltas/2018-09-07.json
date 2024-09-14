@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2018-6",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2018/6",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2018-6|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2018|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2021-05-27",
+  "codified_date": "2018-09-07",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2018-6": [
+      "effective"
+    ]
+  }
+}

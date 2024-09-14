@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|5.89.060",
+      "ptag": "section",
+      "cite": "Section 5.89.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/5.89.060",
+      "doc_mpath": "City of San Mateo, Cal., Code|5|5.89|5.89.060|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2022-8",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2022/8",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2022-8|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2022|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-12-13",
+  "codified_date": "2022-10-06",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2022-8": [
+      "effective"
+    ]
+  }
+}

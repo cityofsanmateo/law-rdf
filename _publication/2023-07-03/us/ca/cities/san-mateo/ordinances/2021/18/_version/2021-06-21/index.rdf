@@ -1,0 +1,156 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-03</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.cityofsanmateo.org/us/ca/cities/san-mateo/ordinances/2021/18/us/ca/cities/san-mateo/ordinances/2021/adopted/2021-18.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/us/ca/cities/san-mateo/ordinances/2021/18"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2021-18. Wireless Telecommunications Facilities ROW.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2023-07-03/2021-06-21]: City of San Mateo, Cal., Ord. No. 2021-18</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-06-21</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-07-21</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Ord. No. 2021-18</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#10">
+    <oll:cite xml:lang="en">Section 10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#11">
+    <oll:cite xml:lang="en">Section 11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#12">
+    <oll:cite xml:lang="en">Section 12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#13">
+    <oll:cite xml:lang="en">Section 13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#14">
+    <oll:cite xml:lang="en">Section 14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#15">
+    <oll:cite xml:lang="en">Section 15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#16">
+    <oll:cite xml:lang="en">Section 16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#9">
+    <oll:cite xml:lang="en">Section 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-18|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/18#9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18/_changes">
+    <rdf:_10 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#2"/>
+    <rdf:_11 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#3"/>
+    <rdf:_12 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#4"/>
+    <rdf:_13 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#5"/>
+    <rdf:_14 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#6"/>
+    <rdf:_15 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#7"/>
+    <rdf:_16 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#8"/>
+    <rdf:_17 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#9"/>
+    <rdf:_1 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18"/>
+    <rdf:_2 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#1"/>
+    <rdf:_3 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#10"/>
+    <rdf:_4 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#11"/>
+    <rdf:_5 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#12"/>
+    <rdf:_6 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#13"/>
+    <rdf:_7 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#14"/>
+    <rdf:_8 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#15"/>
+    <rdf:_9 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2021-06-21/us/ca/cities/san-mateo/ordinances/2021/18#16"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2020-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2020/13",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2020-13|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2020|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2020-14",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2020/14",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2020-14|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2020|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-10-02",
+  "codified_date": "2020-10-08",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2020-13": [
+      "effective"
+    ],
+    "City of San Mateo, Cal., Ord. No. 2020-14": [
+      "effective"
+    ]
+  }
+}

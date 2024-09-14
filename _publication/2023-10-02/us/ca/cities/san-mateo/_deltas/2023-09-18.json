@@ -1,0 +1,444 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/ca/cities/san-mateo/ordinances/2023",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "docs_changes": {
+        "City of San Mateo, Cal., Ord. No. 2023-7": "Element added",
+        "City of San Mateo, Cal., Ord. No. 2023-8": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#1",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|1|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a710",
+      "ptag": "section",
+      "cite": "Section 10",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#10",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|10|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a711",
+      "ptag": "section",
+      "cite": "Section 11",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#11",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|11|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a712",
+      "ptag": "section",
+      "cite": "Section 12",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#12",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|12|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a713",
+      "ptag": "section",
+      "cite": "Section 13",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#13",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|13|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a714",
+      "ptag": "section",
+      "cite": "Section 14",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#14",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|14|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a715",
+      "ptag": "section",
+      "cite": "Section 15",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#15",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|15|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a716",
+      "ptag": "section",
+      "cite": "Section 16",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#16",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|16|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a717",
+      "ptag": "section",
+      "cite": "Section 17",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#17",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|17|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a718",
+      "ptag": "section",
+      "cite": "Section 18",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#18",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|18|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a719",
+      "ptag": "section",
+      "cite": "Section 19",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#19",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|19|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#2",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|2|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a720",
+      "ptag": "section",
+      "cite": "Section 20",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#20",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|20|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a721",
+      "ptag": "section",
+      "cite": "Section 21",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#21",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|21|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a722",
+      "ptag": "section",
+      "cite": "Section 22",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#22",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|22|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a723",
+      "ptag": "section",
+      "cite": "Section 23",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#23",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|23|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a724",
+      "ptag": "section",
+      "cite": "Section 24",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#24",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|24|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a725",
+      "ptag": "section",
+      "cite": "Section 25",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#25",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|25|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#3",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|3|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#4",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|4|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "Section 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#5",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|5|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a76",
+      "ptag": "section",
+      "cite": "Section 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#6",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|6|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a77",
+      "ptag": "section",
+      "cite": "Section 7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#7",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|7|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a78",
+      "ptag": "section",
+      "cite": "Section 8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#8",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|8|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-7",
+      "path": "\u00a79",
+      "ptag": "section",
+      "cite": "Section 9",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/7#9",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-7|9|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-8",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/8",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-8|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-8",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/8#1",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-8|1|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-8",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/8#2",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-8|2|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-8",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/8#3",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-8|3|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-8",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/8#4",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-8|4|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-8",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "Section 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/8#5",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-8|5|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-10-02",
+  "codified_date": "2023-09-18",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2023-7": [
+      "created"
+    ],
+    "City of San Mateo, Cal., Ord. No. 2023-8": [
+      "created"
+    ]
+  }
+}

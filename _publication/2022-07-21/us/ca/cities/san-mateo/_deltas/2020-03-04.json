@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.38.432",
+      "ptag": "section",
+      "cite": "Section 7.38.432",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.38.432",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.38|7.38.432|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2020-1",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2020/1",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2020-1|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2020|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2022-07-21",
+  "codified_date": "2020-03-04",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2020-1": [
+      "effective"
+    ]
+  }
+}

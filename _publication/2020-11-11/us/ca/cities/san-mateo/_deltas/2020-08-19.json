@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|26.64.030",
+      "ptag": "section",
+      "cite": "Section 26.64.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/26.64.030",
+      "doc_mpath": "City of San Mateo, Cal., Code|26|26.64|26.64.030|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.15.080",
+      "ptag": "section",
+      "cite": "Section 27.15.080",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.15.080",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.15|27.15.080|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2020-10",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2020/10",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2020-10|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2020|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2020-9",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2020/9",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2020-9|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2020|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2020-11-11",
+  "codified_date": "2020-08-19",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2020-10": [
+      "effective"
+    ],
+    "City of San Mateo, Cal., Ord. No. 2020-9": [
+      "effective"
+    ]
+  }
+}

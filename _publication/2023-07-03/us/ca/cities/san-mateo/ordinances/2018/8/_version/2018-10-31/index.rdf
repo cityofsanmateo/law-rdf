@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2018-10-31/us/ca/cities/san-mateo/ordinances/2018/8">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-03</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.cityofsanmateo.org/us/ca/cities/san-mateo/ordinances/2018/8/us/ca/cities/san-mateo/ordinances/2018/adopted/2018-8.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/us/ca/cities/san-mateo/ordinances/2018/8"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2018-8. Amend Chapter 11.56 "Bicycles" of the San Mateo Municipal Code.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2023-07-03/2018-10-31]: City of San Mateo, Cal., Ord. No. 2018-8</rdfs:label>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2018-10-31</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-10-31</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Ord. No. 2018-8</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2018-8|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2018-10-31/us/ca/cities/san-mateo/ordinances/2018/8/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2018/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2018-10-31/us/ca/cities/san-mateo/ordinances/2018/8/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-07-03/_date/2018-10-31/us/ca/cities/san-mateo/ordinances/2018/8"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

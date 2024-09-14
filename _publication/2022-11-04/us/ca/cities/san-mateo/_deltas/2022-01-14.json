@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.60.060",
+      "ptag": "section",
+      "cite": "Section 23.60.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.60.060",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.60|23.60.060|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.65",
+      "ptag": "container",
+      "cite": "Chapter 23.65",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.65",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.65|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.65.010",
+      "ptag": "section",
+      "cite": "Section 23.65.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.65.010",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.65|23.65.010|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.65.020",
+      "ptag": "section",
+      "cite": "Section 23.65.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.65.020",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.65|23.65.020|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.13.040",
+      "ptag": "section",
+      "cite": "Section 27.13.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.13.040",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.13|27.13.040|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|3.54.060",
+      "ptag": "section",
+      "cite": "Section 3.54.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/3.54.060",
+      "doc_mpath": "City of San Mateo, Cal., Code|3|3.54|3.54.060|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|3.54.080",
+      "ptag": "section",
+      "cite": "Section 3.54.080",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/3.54.080",
+      "doc_mpath": "City of San Mateo, Cal., Code|3|3.54|3.54.080|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.38.065",
+      "ptag": "section",
+      "cite": "Section 7.38.065",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.38.065",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.38|7.38.065|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2021-24",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2021/24",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2021-24|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2021|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2022-11-04",
+  "codified_date": "2022-01-14",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2021-24": [
+      "effective"
+    ]
+  }
+}

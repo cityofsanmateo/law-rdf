@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-01-12/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2013/2">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-12</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://sanmateo.ca.us.open.law/us/ca/cities/san-mateo/ordinances/2013/2/us/ca/cities/san-mateo/ordinances/2013/adopted/2013-2.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-01-12/us/ca/cities/san-mateo/ordinances/2013/2"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2013-2. An Ordinance of the City Council of the City of San Mateo, State of California, Repealing Chapter 2.22, “Community Improvement Commission,” and Amending Chapter 2.21, and Various Sections of the San Mateo Municipal Code to Transfer the Responsibilities of the Former Community Improvement Commission to the Community Relations Commission and Provide for a Limited Term Expansion of the Number of Community Relations Commission to Six Members.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2021-01-12/2018-03-05]: City of San Mateo, Cal., Ord. No. 2013-2</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2018-03-05</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Ord. No. 2013-2</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2013-2|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-01-12/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2013/2/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-01-12"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2013/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-01-12/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2013/2/_changes">
+    <rdf:_1 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-01-12/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2013/2"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.80.020",
+      "ptag": "section",
+      "cite": "Section 2.80.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.80.020",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.80|2.80.020|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.80.045",
+      "ptag": "section",
+      "cite": "Section 2.80.045",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.80.045",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.80|2.80.045|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.80.050",
+      "ptag": "section",
+      "cite": "Section 2.80.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.80.050",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.80|2.80.050|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.80.080",
+      "ptag": "section",
+      "cite": "Section 2.80.080",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.80.080",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.80|2.80.080|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2021-23",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2021/23",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2021-23|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2021|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2022-04-25",
+  "codified_date": "2022-01-01",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2021-23": [
+      "effective"
+    ]
+  }
+}

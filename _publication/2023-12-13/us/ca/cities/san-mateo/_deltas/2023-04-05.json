@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.27.010",
+      "ptag": "section",
+      "cite": "Section 2.27.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.27.010",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.27|2.27.010|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.27.020",
+      "ptag": "section",
+      "cite": "Section 2.27.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.27.020",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.27|2.27.020|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-1",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/1",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-1|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-12-13",
+  "codified_date": "2023-04-05",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2023-1": [
+      "effective"
+    ]
+  }
+}

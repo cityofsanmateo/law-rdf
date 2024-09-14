@@ -1,0 +1,887 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-11</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/us/ca/cities/san-mateo/charter"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+ARTICLE I NAME, BOUNDARIES, AND POWERS OF THE CITY(§§ 1.01 – 1.03)
+ARTICLE II LEGISLATIVE DEPARTMENT(§§ 2.01 – 2.19)
+ARTICLE III CITY MANAGER(§§ 3.01 – 3.04)
+ARTICLE IV GENERAL ADMINISTRATION(§§ 4.01 – 4.13)
+ARTICLE V FISCAL ADMINISTRATION(§§ 5.01 – 5.26)
+ARTICLE VI BOARDS AND COMMISSIONS(§§ 6.01 – 6.12)
+ARTICLE VII ELECTIONS(§§ 7.01 – 7.04)
+ARTICLE VIII PARKS(§§ 8.01 – 8.02)
+ARTICLE IX MISCELLANEOUS(§§ 9.01 – 9.09)
+ARTICLE X TRANSITIONAL PROVISIONS(§§ 10.01 – 10.04)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">San Mateo City Charter.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2020-11-11/2018-03-05]: City of San Mateo, Cal., Charter</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2018-03-05</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-04</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Charter</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/1.01">
+    <oll:cite xml:lang="en">Section 1.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|I|1.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/1.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/1.02">
+    <oll:cite xml:lang="en">Section 1.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|I|1.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/1.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/1.03">
+    <oll:cite xml:lang="en">Section 1.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|I|1.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/1.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.01">
+    <oll:cite xml:lang="en">Section 10.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|X|10.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/10.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.02">
+    <oll:cite xml:lang="en">Section 10.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|X|10.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/10.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.03">
+    <oll:cite xml:lang="en">Section 10.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|X|10.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/10.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.04">
+    <oll:cite xml:lang="en">Section 10.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|X|10.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/10.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.01">
+    <oll:cite xml:lang="en">Section 2.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.02">
+    <oll:cite xml:lang="en">Section 2.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.03">
+    <oll:cite xml:lang="en">Section 2.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.04">
+    <oll:cite xml:lang="en">Section 2.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.05">
+    <oll:cite xml:lang="en">Section 2.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.06">
+    <oll:cite xml:lang="en">Section 2.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.07">
+    <oll:cite xml:lang="en">Section 2.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.08">
+    <oll:cite xml:lang="en">Section 2.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.09">
+    <oll:cite xml:lang="en">Section 2.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.10">
+    <oll:cite xml:lang="en">Section 2.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.11">
+    <oll:cite xml:lang="en">Section 2.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.12">
+    <oll:cite xml:lang="en">Section 2.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.13">
+    <oll:cite xml:lang="en">Section 2.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.14">
+    <oll:cite xml:lang="en">Section 2.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.15">
+    <oll:cite xml:lang="en">Section 2.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.16">
+    <oll:cite xml:lang="en">Section 2.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.17">
+    <oll:cite xml:lang="en">Section 2.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.18">
+    <oll:cite xml:lang="en">Section 2.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.19">
+    <oll:cite xml:lang="en">Section 2.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|2.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/2.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.01">
+    <oll:cite xml:lang="en">Section 3.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|III|3.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/3.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.02">
+    <oll:cite xml:lang="en">Section 3.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|III|3.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/3.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.03">
+    <oll:cite xml:lang="en">Section 3.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|III|3.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/3.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.04">
+    <oll:cite xml:lang="en">Section 3.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|III|3.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/3.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.01">
+    <oll:cite xml:lang="en">Section 4.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.02">
+    <oll:cite xml:lang="en">Section 4.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.03">
+    <oll:cite xml:lang="en">Section 4.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.04">
+    <oll:cite xml:lang="en">Section 4.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.05">
+    <oll:cite xml:lang="en">Section 4.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.06">
+    <oll:cite xml:lang="en">Section 4.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.07">
+    <oll:cite xml:lang="en">Section 4.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.08">
+    <oll:cite xml:lang="en">Section 4.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.09">
+    <oll:cite xml:lang="en">Section 4.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.10">
+    <oll:cite xml:lang="en">Section 4.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.11">
+    <oll:cite xml:lang="en">Section 4.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.12">
+    <oll:cite xml:lang="en">Section 4.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.13">
+    <oll:cite xml:lang="en">Section 4.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|4.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/4.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.01">
+    <oll:cite xml:lang="en">Section 5.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.02">
+    <oll:cite xml:lang="en">Section 5.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.03">
+    <oll:cite xml:lang="en">Section 5.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.04">
+    <oll:cite xml:lang="en">Section 5.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.05">
+    <oll:cite xml:lang="en">Section 5.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.06">
+    <oll:cite xml:lang="en">Section 5.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.07">
+    <oll:cite xml:lang="en">Section 5.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.08">
+    <oll:cite xml:lang="en">Section 5.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.09">
+    <oll:cite xml:lang="en">Section 5.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.10">
+    <oll:cite xml:lang="en">Section 5.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.11">
+    <oll:cite xml:lang="en">Section 5.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.12">
+    <oll:cite xml:lang="en">Section 5.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.13">
+    <oll:cite xml:lang="en">Section 5.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.14">
+    <oll:cite xml:lang="en">Section 5.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.15">
+    <oll:cite xml:lang="en">Section 5.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.16">
+    <oll:cite xml:lang="en">Section 5.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.17">
+    <oll:cite xml:lang="en">Section 5.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.18">
+    <oll:cite xml:lang="en">Section 5.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.19">
+    <oll:cite xml:lang="en">Section 5.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.20">
+    <oll:cite xml:lang="en">Section 5.20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.21">
+    <oll:cite xml:lang="en">Section 5.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.22">
+    <oll:cite xml:lang="en">Section 5.22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.23">
+    <oll:cite xml:lang="en">Section 5.23</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.23|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.23</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.24">
+    <oll:cite xml:lang="en">Section 5.24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.25">
+    <oll:cite xml:lang="en">Section 5.25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.26">
+    <oll:cite xml:lang="en">Section 5.26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|5.26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/5.26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.01">
+    <oll:cite xml:lang="en">Section 6.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.02">
+    <oll:cite xml:lang="en">Section 6.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.03">
+    <oll:cite xml:lang="en">Section 6.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.04">
+    <oll:cite xml:lang="en">Section 6.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.05">
+    <oll:cite xml:lang="en">Section 6.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.06">
+    <oll:cite xml:lang="en">Section 6.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.07">
+    <oll:cite xml:lang="en">Section 6.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.08">
+    <oll:cite xml:lang="en">Section 6.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.09">
+    <oll:cite xml:lang="en">Section 6.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.10">
+    <oll:cite xml:lang="en">Section 6.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.11">
+    <oll:cite xml:lang="en">Section 6.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.12">
+    <oll:cite xml:lang="en">Section 6.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|6.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/6.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.01">
+    <oll:cite xml:lang="en">Section 7.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VII|7.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/7.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.02">
+    <oll:cite xml:lang="en">Section 7.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VII|7.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/7.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.03">
+    <oll:cite xml:lang="en">Section 7.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VII|7.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/7.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.04">
+    <oll:cite xml:lang="en">Section 7.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VII|7.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/7.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/8.01">
+    <oll:cite xml:lang="en">Section 8.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VIII|8.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/8.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/8.02">
+    <oll:cite xml:lang="en">Section 8.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VIII|8.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/8.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.01">
+    <oll:cite xml:lang="en">Section 9.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.02">
+    <oll:cite xml:lang="en">Section 9.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.03">
+    <oll:cite xml:lang="en">Section 9.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.04">
+    <oll:cite xml:lang="en">Section 9.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.05">
+    <oll:cite xml:lang="en">Section 9.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.06">
+    <oll:cite xml:lang="en">Section 9.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.07">
+    <oll:cite xml:lang="en">Section 9.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.08">
+    <oll:cite xml:lang="en">Section 9.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.09">
+    <oll:cite xml:lang="en">Section 9.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|9.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/9.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/I">
+    <oll:cite xml:lang="en">ARTICLE I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/II">
+    <oll:cite xml:lang="en">ARTICLE II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/III">
+    <oll:cite xml:lang="en">ARTICLE III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/IV">
+    <oll:cite xml:lang="en">ARTICLE IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/IX">
+    <oll:cite xml:lang="en">ARTICLE IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/V">
+    <oll:cite xml:lang="en">ARTICLE V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/VI">
+    <oll:cite xml:lang="en">ARTICLE VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/VII">
+    <oll:cite xml:lang="en">ARTICLE VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/VIII">
+    <oll:cite xml:lang="en">ARTICLE VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/X">
+    <oll:cite xml:lang="en">ARTICLE X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Charter|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/charter/X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/_changes">
+    <rdf:_100 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/III"/>
+    <rdf:_101 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/IV"/>
+    <rdf:_102 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/IX"/>
+    <rdf:_103 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/V"/>
+    <rdf:_104 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/VI"/>
+    <rdf:_105 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/VII"/>
+    <rdf:_106 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/VIII"/>
+    <rdf:_107 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/X"/>
+    <rdf:_10 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.02"/>
+    <rdf:_11 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.03"/>
+    <rdf:_12 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.04"/>
+    <rdf:_13 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.05"/>
+    <rdf:_14 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.06"/>
+    <rdf:_15 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.07"/>
+    <rdf:_16 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.08"/>
+    <rdf:_17 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.09"/>
+    <rdf:_18 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.10"/>
+    <rdf:_19 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.11"/>
+    <rdf:_1 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter"/>
+    <rdf:_20 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.12"/>
+    <rdf:_21 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.13"/>
+    <rdf:_22 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.14"/>
+    <rdf:_23 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.15"/>
+    <rdf:_24 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.16"/>
+    <rdf:_25 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.17"/>
+    <rdf:_26 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.18"/>
+    <rdf:_27 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.19"/>
+    <rdf:_28 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.01"/>
+    <rdf:_29 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.02"/>
+    <rdf:_2 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/1.01"/>
+    <rdf:_30 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.03"/>
+    <rdf:_31 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/3.04"/>
+    <rdf:_32 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.01"/>
+    <rdf:_33 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.02"/>
+    <rdf:_34 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.03"/>
+    <rdf:_35 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.04"/>
+    <rdf:_36 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.05"/>
+    <rdf:_37 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.06"/>
+    <rdf:_38 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.07"/>
+    <rdf:_39 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.08"/>
+    <rdf:_3 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/1.02"/>
+    <rdf:_40 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.09"/>
+    <rdf:_41 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.10"/>
+    <rdf:_42 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.11"/>
+    <rdf:_43 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.12"/>
+    <rdf:_44 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/4.13"/>
+    <rdf:_45 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.01"/>
+    <rdf:_46 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.02"/>
+    <rdf:_47 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.03"/>
+    <rdf:_48 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.04"/>
+    <rdf:_49 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.05"/>
+    <rdf:_4 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/1.03"/>
+    <rdf:_50 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.06"/>
+    <rdf:_51 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.07"/>
+    <rdf:_52 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.08"/>
+    <rdf:_53 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.09"/>
+    <rdf:_54 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.10"/>
+    <rdf:_55 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.11"/>
+    <rdf:_56 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.12"/>
+    <rdf:_57 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.13"/>
+    <rdf:_58 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.14"/>
+    <rdf:_59 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.15"/>
+    <rdf:_5 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.01"/>
+    <rdf:_60 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.16"/>
+    <rdf:_61 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.17"/>
+    <rdf:_62 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.18"/>
+    <rdf:_63 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.19"/>
+    <rdf:_64 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.20"/>
+    <rdf:_65 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.21"/>
+    <rdf:_66 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.22"/>
+    <rdf:_67 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.23"/>
+    <rdf:_68 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.24"/>
+    <rdf:_69 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.25"/>
+    <rdf:_6 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.02"/>
+    <rdf:_70 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/5.26"/>
+    <rdf:_71 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.01"/>
+    <rdf:_72 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.02"/>
+    <rdf:_73 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.03"/>
+    <rdf:_74 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.04"/>
+    <rdf:_75 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.05"/>
+    <rdf:_76 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.06"/>
+    <rdf:_77 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.07"/>
+    <rdf:_78 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.08"/>
+    <rdf:_79 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.09"/>
+    <rdf:_7 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.03"/>
+    <rdf:_80 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.10"/>
+    <rdf:_81 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.11"/>
+    <rdf:_82 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/6.12"/>
+    <rdf:_83 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.01"/>
+    <rdf:_84 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.02"/>
+    <rdf:_85 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.03"/>
+    <rdf:_86 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/7.04"/>
+    <rdf:_87 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/8.01"/>
+    <rdf:_88 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/8.02"/>
+    <rdf:_89 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.01"/>
+    <rdf:_8 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/10.04"/>
+    <rdf:_90 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.02"/>
+    <rdf:_91 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.03"/>
+    <rdf:_92 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.04"/>
+    <rdf:_93 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.05"/>
+    <rdf:_94 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.06"/>
+    <rdf:_95 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.07"/>
+    <rdf:_96 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.08"/>
+    <rdf:_97 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/9.09"/>
+    <rdf:_98 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/I"/>
+    <rdf:_99 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/II"/>
+    <rdf:_9 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2020-11-11/_date/2018-03-05/us/ca/cities/san-mateo/charter/2.01"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

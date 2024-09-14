@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.54.030",
+      "ptag": "section",
+      "cite": "Section 23.54.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.54.030",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.54|23.54.030|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.02.060",
+      "ptag": "section",
+      "cite": "Section 27.02.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.02.060",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.02|27.02.060|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.02.140",
+      "ptag": "section",
+      "cite": "Section 27.02.140",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.02.140",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.02|27.02.140|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.06.020",
+      "ptag": "section",
+      "cite": "Section 27.06.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.06.020",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.06|27.06.020|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.06.050",
+      "ptag": "section",
+      "cite": "Section 27.06.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.06.050",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.06|27.06.050|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.08.080",
+      "ptag": "section",
+      "cite": "Section 27.08.080",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.08.080",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.08|27.08.080|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-3",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/3",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-3|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-4",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/4",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-4|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2023-5",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2023/5",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2023-5|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-12-13",
+  "codified_date": "2023-09-20",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2023-3": [
+      "effective"
+    ],
+    "City of San Mateo, Cal., Ord. No. 2023-4": [
+      "effective"
+    ],
+    "City of San Mateo, Cal., Ord. No. 2023-5": [
+      "effective"
+    ]
+  }
+}

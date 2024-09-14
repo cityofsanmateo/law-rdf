@@ -1,0 +1,419 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-21</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/us/ca/cities/san-mateo/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1 GENERAL PROVISIONS(§§ 1.01.010 – 1.14.070)
+Title 2 ADMINISTRATION AND PERSONNEL(§§ 2.03.010 – 2.80.090)
+Title 3 TAXATION AND FINANCE(§§ 3.35.010 – 3.64.030)
+Title 4 RESERVED
+Title 5 BUSINESS LICENSES AND REGULATIONS(§§ 5.03.010 – 5.92.080)
+Title 6 RESERVED
+Title 7 HEALTH, SANITATION, AND PUBLIC NUISANCES(§§ 7.04.010 – 7.50.130)
+Title 8 ANIMALS AND FOWL(§§ 8.02.002 – 8.32.080)
+Title 9 RESERVED
+Title 10 PEACE, SAFETY AND MORALS(§§ 10.04.010 – 10.80.070)
+Title 11 VEHICLES AND TRAFFIC(§§ 11.04.010 – 11.62.030)
+Title 12 RESERVED
+Title 13 PARKS AND RECREATION(§§ 13.01.001 – 13.40.160)
+Title 14 RESERVED
+Title 15 PUBLIC UTILITIES(§§ 15.04.010 – 15.26.090)
+Title 16 RESERVED
+Title 17 STREETS AND SIDEWALKS(§§ 17.08.010 – 17.34.140)
+Title 18 RESERVED
+Title 19 PARKING FACILITIES
+Title 20 RESERVED
+Title 21 PUBLIC IMPROVEMENTS
+Title 22 RESERVED
+Title 23 BUILDINGS AND CONSTRUCTION(§§ 23.04.010 – 23.72.200)
+Title 24 TRANSPORTATION SYSTEM MANAGEMENT (TSM)(§§ 24.01.010 – 24.03.010)
+Title 25 SIGNS(§§ 25.02.010 – 25.08.010)
+Title 26 SUBDIVISIONS(§§ 26.04.010 – 26.72.040)
+Title 27 ZONING(§§ 27.02.010 – 27.92.060)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">City of San Mateo Municipal Code.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2022-07-21/2021-07-01]: City of San Mateo, Cal., Code</rdfs:label>
+    <oll:codifiedDate>2021-07-01</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-07-01</oll:dateCurrentThrough>
+    <oll:docId>City of San Mateo, Cal., Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21"/>
+    <oll:lastCodifiedDocument rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/us/ca/cities/san-mateo/ordinances/2021/13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/1.04.050">
+    <oll:cite xml:lang="en">Section 1.04.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|1|1.04|1.04.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/1.04.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35">
+    <oll:cite xml:lang="en">Chapter 13.35</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.010">
+    <oll:cite xml:lang="en">Section 13.35.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.020">
+    <oll:cite xml:lang="en">Section 13.35.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.030">
+    <oll:cite xml:lang="en">Section 13.35.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.040">
+    <oll:cite xml:lang="en">Section 13.35.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.050">
+    <oll:cite xml:lang="en">Section 13.35.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.060">
+    <oll:cite xml:lang="en">Section 13.35.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.070">
+    <oll:cite xml:lang="en">Section 13.35.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.080">
+    <oll:cite xml:lang="en">Section 13.35.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.085">
+    <oll:cite xml:lang="en">Section 13.35.085</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.085|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.085</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.090">
+    <oll:cite xml:lang="en">Section 13.35.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.100">
+    <oll:cite xml:lang="en">Section 13.35.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.105">
+    <oll:cite xml:lang="en">Section 13.35.105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.110">
+    <oll:cite xml:lang="en">Section 13.35.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.35|13.35.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.35.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40">
+    <oll:cite xml:lang="en">Chapter 13.40</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.010">
+    <oll:cite xml:lang="en">Section 13.40.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.020">
+    <oll:cite xml:lang="en">Section 13.40.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.030">
+    <oll:cite xml:lang="en">Section 13.40.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.040">
+    <oll:cite xml:lang="en">Section 13.40.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.050">
+    <oll:cite xml:lang="en">Section 13.40.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.060">
+    <oll:cite xml:lang="en">Section 13.40.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.070">
+    <oll:cite xml:lang="en">Section 13.40.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.080">
+    <oll:cite xml:lang="en">Section 13.40.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.090">
+    <oll:cite xml:lang="en">Section 13.40.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.100">
+    <oll:cite xml:lang="en">Section 13.40.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.110">
+    <oll:cite xml:lang="en">Section 13.40.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.120">
+    <oll:cite xml:lang="en">Section 13.40.120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.130">
+    <oll:cite xml:lang="en">Section 13.40.130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.140">
+    <oll:cite xml:lang="en">Section 13.40.140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.150">
+    <oll:cite xml:lang="en">Section 13.40.150</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.150|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.150</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.160">
+    <oll:cite xml:lang="en">Section 13.40.160</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.40|13.40.160|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.40.160</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52">
+    <oll:cite xml:lang="en">Chapter 13.52</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.010">
+    <oll:cite xml:lang="en">Section 13.52.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.020">
+    <oll:cite xml:lang="en">Section 13.52.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.025">
+    <oll:cite xml:lang="en">Section 13.52.025</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.025|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.025</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.030">
+    <oll:cite xml:lang="en">Section 13.52.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.040">
+    <oll:cite xml:lang="en">Section 13.52.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.050">
+    <oll:cite xml:lang="en">Section 13.52.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.055">
+    <oll:cite xml:lang="en">Section 13.52.055</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.055|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.055</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.060">
+    <oll:cite xml:lang="en">Section 13.52.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.070">
+    <oll:cite xml:lang="en">Section 13.52.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.080">
+    <oll:cite xml:lang="en">Section 13.52.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|13|13.52|13.52.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/13.52.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/_changes">
+    <rdf:_10 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.080"/>
+    <rdf:_11 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.085"/>
+    <rdf:_12 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.090"/>
+    <rdf:_13 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.100"/>
+    <rdf:_14 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.105"/>
+    <rdf:_15 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.110"/>
+    <rdf:_16 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40"/>
+    <rdf:_17 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.010"/>
+    <rdf:_18 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.020"/>
+    <rdf:_19 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.030"/>
+    <rdf:_1 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/1.04.050"/>
+    <rdf:_20 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.040"/>
+    <rdf:_21 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.050"/>
+    <rdf:_22 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.060"/>
+    <rdf:_23 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.070"/>
+    <rdf:_24 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.080"/>
+    <rdf:_25 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.090"/>
+    <rdf:_26 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.100"/>
+    <rdf:_27 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.110"/>
+    <rdf:_28 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.120"/>
+    <rdf:_29 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.130"/>
+    <rdf:_2 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35"/>
+    <rdf:_30 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.140"/>
+    <rdf:_31 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.150"/>
+    <rdf:_32 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.40.160"/>
+    <rdf:_33 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52"/>
+    <rdf:_34 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.010"/>
+    <rdf:_35 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.020"/>
+    <rdf:_36 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.025"/>
+    <rdf:_37 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.030"/>
+    <rdf:_38 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.040"/>
+    <rdf:_39 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.050"/>
+    <rdf:_3 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.010"/>
+    <rdf:_40 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.055"/>
+    <rdf:_41 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.060"/>
+    <rdf:_42 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.070"/>
+    <rdf:_43 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.52.080"/>
+    <rdf:_4 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.020"/>
+    <rdf:_5 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.030"/>
+    <rdf:_6 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.040"/>
+    <rdf:_7 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.050"/>
+    <rdf:_8 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.060"/>
+    <rdf:_9 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2022-07-21/_date/2021-07-01/us/ca/cities/san-mateo/code/13.35.070"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,57 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-23</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/us/ca/cities/san-mateo/drafting-manual"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">City of San Mateo Legislative Drafting Manual.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-04-23/2018-03-05]: City of San Mateo, Cal., Legis. Drafting Manual</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2018-03-05</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-07-01</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Legis. Drafting Manual</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Legis. Drafting Manual|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/drafting-manual</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Legis. Drafting Manual|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/drafting-manual#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Legis. Drafting Manual|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/drafting-manual#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Legis. Drafting Manual|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/drafting-manual#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Legis. Drafting Manual|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/drafting-manual#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual/_changes">
+    <rdf:_1 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual"/>
+    <rdf:_2 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#1"/>
+    <rdf:_3 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#2"/>
+    <rdf:_4 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#3"/>
+    <rdf:_5 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/drafting-manual#4"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

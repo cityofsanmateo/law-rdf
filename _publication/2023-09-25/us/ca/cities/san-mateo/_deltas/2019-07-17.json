@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|26.65.060",
+      "ptag": "section",
+      "cite": "Section 26.65.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/26.65.060",
+      "doc_mpath": "City of San Mateo, Cal., Code|26|26.65|26.65.060|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.02.180",
+      "ptag": "section",
+      "cite": "Section 27.02.180",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.02.180",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.02|27.02.180|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.60.180",
+      "ptag": "section",
+      "cite": "Section 27.60.180",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.60.180",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.60|27.60.180|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50",
+      "ptag": "container",
+      "cite": "Chapter 7.50",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.010",
+      "ptag": "section",
+      "cite": "Section 7.50.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.010",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.010|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.020",
+      "ptag": "section",
+      "cite": "Section 7.50.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.020",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.020|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.030",
+      "ptag": "section",
+      "cite": "Section 7.50.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.030",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.030|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.040",
+      "ptag": "section",
+      "cite": "Section 7.50.040",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.040",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.040|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.050",
+      "ptag": "section",
+      "cite": "Section 7.50.050",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.050",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.050|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.060",
+      "ptag": "section",
+      "cite": "Section 7.50.060",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.060",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.060|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.070",
+      "ptag": "section",
+      "cite": "Section 7.50.070",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.070",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.070|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.080",
+      "ptag": "section",
+      "cite": "Section 7.50.080",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.080",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.080|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.090",
+      "ptag": "section",
+      "cite": "Section 7.50.090",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.090",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.090|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.100",
+      "ptag": "section",
+      "cite": "Section 7.50.100",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.100",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.100|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.110",
+      "ptag": "section",
+      "cite": "Section 7.50.110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.110",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.110|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.120",
+      "ptag": "section",
+      "cite": "Section 7.50.120",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.120",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.120|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50.130",
+      "ptag": "section",
+      "cite": "Section 7.50.130",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50.130",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|7.50.130|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2019-6",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2019/6",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2019-6|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2019|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2019-7",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2019/7",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2019-7|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2019|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-09-25",
+  "codified_date": "2019-07-17",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2019-6": [
+      "effective"
+    ],
+    "City of San Mateo, Cal., Ord. No. 2019-7": [
+      "effective"
+    ]
+  }
+}

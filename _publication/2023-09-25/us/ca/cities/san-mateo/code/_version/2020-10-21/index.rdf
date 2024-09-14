@@ -1,0 +1,90 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-09-25</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/us/ca/cities/san-mateo/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1 GENERAL PROVISIONS(§§ 1.01.010 – 1.14.070)
+Title 2 ADMINISTRATION AND PERSONNEL(§§ 2.03.010 – 2.80.090)
+Title 3 TAXATION AND FINANCE(§§ 3.35.010 – 3.64.030)
+Title 4 RESERVED
+Title 5 BUSINESS LICENSES AND REGULATIONS(§§ 5.03.010 – 5.92.080)
+Title 6 RESERVED
+Title 7 HEALTH, SANITATION, AND PUBLIC NUISANCES(§§ 7.04.010 – 7.50.130)
+Title 8 ANIMALS AND FOWL(§§ 8.02.002 – 8.32.080)
+Title 9 RESERVED
+Title 10 PEACE, SAFETY AND MORALS(§§ 10.04.010 – 10.80.070)
+Title 11 VEHICLES AND TRAFFIC(§§ 11.04.010 – 11.62.030)
+Title 12 RESERVED
+Title 13 PARKS AND RECREATION(§§ 13.01.001 – 13.52.080)
+Title 14 RESERVED
+Title 15 PUBLIC UTILITIES(§§ 15.04.010 – 15.26.090)
+Title 16 RESERVED
+Title 17 STREETS AND SIDEWALKS(§§ 17.08.010 – 17.34.140)
+Title 18 RESERVED
+Title 19 PARKING FACILITIES
+Title 20 RESERVED
+Title 21 PUBLIC IMPROVEMENTS
+Title 22 RESERVED
+Title 23 BUILDINGS AND CONSTRUCTION(§§ 23.04.010 – 23.72.200)
+Title 24 TRANSPORTATION SYSTEM MANAGEMENT (TSM)(§§ 24.01.010 – 24.03.010)
+Title 25 SIGNS(§§ 25.02.010 – 25.08.010)
+Title 26 SUBDIVISIONS(§§ 26.04.010 – 26.72.040)
+Title 27 ZONING(§§ 27.02.010 – 27.92.060)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">City of San Mateo Municipal Code.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2023-09-25/2020-10-21]: City of San Mateo, Cal., Code</rdfs:label>
+    <oll:codifiedDate>2020-10-21</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-10-21</oll:dateCurrentThrough>
+    <oll:docId>City of San Mateo, Cal., Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/us/ca/cities/san-mateo/ordinances/2020/15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28">
+    <oll:cite xml:lang="en">Chapter 10.28</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|10|10.28|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/10.28</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.010">
+    <oll:cite xml:lang="en">Section 10.28.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|10|10.28|10.28.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/10.28.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.020">
+    <oll:cite xml:lang="en">Section 10.28.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|10|10.28|10.28.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/10.28.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.030">
+    <oll:cite xml:lang="en">Section 10.28.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|10|10.28|10.28.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/10.28.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.040">
+    <oll:cite xml:lang="en">Section 10.28.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|10|10.28|10.28.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/10.28.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28"/>
+    <rdf:_2 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.010"/>
+    <rdf:_3 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.020"/>
+    <rdf:_4 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.030"/>
+    <rdf:_5 rdf:resource="https://law.cityofsanmateo.org/_publication/2023-09-25/_date/2020-10-21/us/ca/cities/san-mateo/code/10.28.040"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

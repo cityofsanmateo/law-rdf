@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Legis. Drafting Manual",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/drafting-manual",
+      "doc_mpath": "City of San Mateo, Cal., Legis. Drafting Manual|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2022-04-25",
+  "codified_date": "2019-07-01",
+  "reasons": {
+    "City of San Mateo, Cal., Legis. Drafting Manual": [
+      "effective"
+    ]
+  }
+}

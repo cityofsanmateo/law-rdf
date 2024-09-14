@@ -1,0 +1,78 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-19</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://sanmateo.ca.us.open.law/us/ca/cities/san-mateo/ordinances/2020/19/us/ca/cities/san-mateo/ordinances/2020/adopted/2020-19.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/us/ca/cities/san-mateo/ordinances/2020/19"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2020-19. Emergency Ordinance – Outdoor Business Operations.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2021-08-19-01/2020-11-16]: City of San Mateo, Cal., Ord. No. 2020-19</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2020-11-16</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-16</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Ord. No. 2020-19</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2020-19|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2020/19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2020-19|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2020/19#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2020-19|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2020/19#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2020-19|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2020/19#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2020-19|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2020/19#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2020-19|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2020/19#5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2020-19|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2020/19#6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19/_changes">
+    <rdf:_1 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19"/>
+    <rdf:_2 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#1"/>
+    <rdf:_3 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#2"/>
+    <rdf:_4 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#3"/>
+    <rdf:_5 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#4"/>
+    <rdf:_6 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#5"/>
+    <rdf:_7 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-08-19-01/_date/2020-11-16/us/ca/cities/san-mateo/ordinances/2020/19#6"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

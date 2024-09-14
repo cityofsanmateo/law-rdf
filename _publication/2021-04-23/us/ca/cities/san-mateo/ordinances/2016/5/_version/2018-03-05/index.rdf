@@ -1,0 +1,76 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-23</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://sanmateo.ca.us.open.law/us/ca/cities/san-mateo/ordinances/2016/5/us/ca/cities/san-mateo/ordinances/2016/adopted/2016-5.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/us/ca/cities/san-mateo/ordinances/2016/5"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2016-5. Amending Title 23 Building and Construction of the San Mateo Municipal Code to Adopt the California Energy Code, 2016 Edition as a New Chapter 23.24 and to Adopt Local Amendments to the Energy Code and Related Findings.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2021-04-23/2018-03-05]: City of San Mateo, Cal., Ord. No. 2016-5</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2018-03-05</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Ord. No. 2016-5</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2016-5|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2016/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2016-5|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2016/5#1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2016-5|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2016/5#2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2016-5|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2016/5#3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2016-5|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2016/5#4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2016-5|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2016/5#5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#attachments/ex-a">
+    <oll:cite xml:lang="en">Exhibit A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2016-5|ex-a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2016/5#attachments/ex-a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5/_changes">
+    <rdf:_1 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5"/>
+    <rdf:_2 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#1"/>
+    <rdf:_3 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#2"/>
+    <rdf:_4 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#3"/>
+    <rdf:_5 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#4"/>
+    <rdf:_6 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#5"/>
+    <rdf:_7 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-04-23/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2016/5#attachments/ex-a"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

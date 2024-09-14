@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2022-5",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2022/5",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2022-5|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2022|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2022-09-15",
+  "codified_date": "2022-06-01",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2022-5": [
+      "effective"
+    ]
+  }
+}

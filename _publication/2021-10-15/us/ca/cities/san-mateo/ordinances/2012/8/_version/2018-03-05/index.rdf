@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-10-15/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2012/8">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-15</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://sanmateo.ca.us.open.law/us/ca/cities/san-mateo/ordinances/2012/8/us/ca/cities/san-mateo/ordinances/2012/adopted/2012-8.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-10-15/us/ca/cities/san-mateo/ordinances/2012/8"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2012-8. Amending Section 27.38.020, “Permitted Uses,” Section 27.38.030, “Special Uses,” Section 27.38.040, “Conditions of Use,” Section 27.38.100, “Building Line and Setbacks,” Section 27.38.110, “Required Retail Frontage,” and Section 27.38.140, “Downtown Economic Development,” of Chapter 27.38, “CBD Districts—Central Business District,” and Section 27.74.020, “Power to Grant,” of Chapter 27.74, “Special Use Permits,” of the San Mateo Municipal Code.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2021-10-15/2018-03-05]: City of San Mateo, Cal., Ord. No. 2012-8</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2018-03-05</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Ord. No. 2012-8</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2012-8|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-10-15/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2012/8/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-10-15"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2012/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sanmateo.ca.us.open.law/_publication/2021-10-15/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2012/8/_changes">
+    <rdf:_1 rdf:resource="https://sanmateo.ca.us.open.law/_publication/2021-10-15/_date/2018-03-05/us/ca/cities/san-mateo/ordinances/2012/8"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
