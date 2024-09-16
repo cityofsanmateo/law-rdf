@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2021-07-21/us/ca/cities/san-mateo/ordinances/2021/17">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-16</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.cityofsanmateo.org/us/ca/cities/san-mateo/ordinances/2021/17/us/ca/cities/san-mateo/ordinances/2021/adopted/2021-17-revised.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/us/ca/cities/san-mateo/ordinances/2021/17"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Ord. No. 2021-17. Short Term Rentals Amendment.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Ordinance"/>
+    <rdfs:label xml:lang="en">[2024-09-16/2021-07-21]: City of San Mateo, Cal., Ord. No. 2021-17</rdfs:label>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-07-21</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-07-21</oll:dateEffective>
+    <oll:docId>City of San Mateo, Cal., Ord. No. 2021-17</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Ord. No. 2021-17|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2021-07-21/us/ca/cities/san-mateo/ordinances/2021/17/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/ordinances/2021/17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2021-07-21/us/ca/cities/san-mateo/ordinances/2021/17/_changes">
+    <rdf:_1 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2021-07-21/us/ca/cities/san-mateo/ordinances/2021/17"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
