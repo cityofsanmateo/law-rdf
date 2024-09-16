@@ -1,0 +1,466 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-16</dcterms:available>
+    <dcterms:creator xml:lang="en">City of San Mateo, California</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/us/ca/cities/san-mateo/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1 GENERAL PROVISIONS(§§ 1.01.010 – 1.14.070)
+Title 2 ADMINISTRATION AND PERSONNEL(§§ 2.03.010 – 2.80.090)
+Title 3 TAXATION AND FINANCE(§§ 3.35.010 – 3.64.030)
+Title 4 RESERVED
+Title 5 BUSINESS LICENSES AND REGULATIONS(§§ 5.03.010 – 5.92.080)
+Title 6 RESERVED
+Title 7 HEALTH, SANITATION, AND PUBLIC NUISANCES(§§ 7.04.010 – 7.50.130)
+Title 8 ANIMALS AND FOWL(§§ 8.02.002 – 8.32.080)
+Title 9 RESERVED
+Title 10 PEACE, SAFETY AND MORALS(§§ 10.04.010 – 10.90.040)
+Title 11 VEHICLES AND TRAFFIC(§§ 11.04.010 – 11.62.030)
+Title 12 RESERVED
+Title 13 PARKS AND RECREATION(§§ 13.01.001 – 13.40.160)
+Title 14 RESERVED
+Title 15 PUBLIC UTILITIES(§§ 15.04.010 – 15.26.090)
+Title 16 RESERVED
+Title 17 STREETS AND SIDEWALKS(§§ 17.08.010 – 17.34.140)
+Title 18 RESERVED
+Title 19 PARKING FACILITIES
+Title 20 RESERVED
+Title 21 PUBLIC IMPROVEMENTS
+Title 22 RESERVED
+Title 23 BUILDINGS AND CONSTRUCTION(§§ 23.04.010 – 23.72.200)
+Title 24 TRANSPORTATION SYSTEM MANAGEMENT (TSM)(§§ 24.01.010 – 24.03.010)
+Title 25 SIGNS(§§ 25.02.010 – 25.08.010)
+Title 26 SUBDIVISIONS(§§ 26.04.010 – 26.72.040)
+Title 27 ZONING(§§ 27.02.010 – 27.92.060)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">City of San Mateo Municipal Code.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-09-16/2024-03-21]: City of San Mateo, Cal., Code</rdfs:label>
+    <oll:codifiedDate>2024-03-21</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-03-21</oll:dateCurrentThrough>
+    <oll:docId>City of San Mateo, Cal., Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/us/ca/cities/san-mateo/ordinances/2024/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.002">
+    <oll:cite xml:lang="en">Section 8.02.002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.004">
+    <oll:cite xml:lang="en">Section 8.02.004</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.004|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.004</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.006">
+    <oll:cite xml:lang="en">Section 8.02.006</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.006|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.006</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.010">
+    <oll:cite xml:lang="en">Section 8.02.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.020">
+    <oll:cite xml:lang="en">Section 8.02.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.030">
+    <oll:cite xml:lang="en">Section 8.02.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.040">
+    <oll:cite xml:lang="en">Section 8.02.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.045">
+    <oll:cite xml:lang="en">Section 8.02.045</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.045|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.045</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.050">
+    <oll:cite xml:lang="en">Section 8.02.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.060">
+    <oll:cite xml:lang="en">Section 8.02.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.070">
+    <oll:cite xml:lang="en">Section 8.02.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.080">
+    <oll:cite xml:lang="en">Section 8.02.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.090">
+    <oll:cite xml:lang="en">Section 8.02.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.100">
+    <oll:cite xml:lang="en">Section 8.02.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.105">
+    <oll:cite xml:lang="en">Section 8.02.105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.110">
+    <oll:cite xml:lang="en">Section 8.02.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.115">
+    <oll:cite xml:lang="en">Section 8.02.115</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.115|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.115</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.120">
+    <oll:cite xml:lang="en">Section 8.02.120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.130">
+    <oll:cite xml:lang="en">Section 8.02.130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.140">
+    <oll:cite xml:lang="en">Section 8.02.140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.150">
+    <oll:cite xml:lang="en">Section 8.02.150</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.150|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.150</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.160">
+    <oll:cite xml:lang="en">Section 8.02.160</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.160|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.160</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.170">
+    <oll:cite xml:lang="en">Section 8.02.170</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.170|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.170</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.180">
+    <oll:cite xml:lang="en">Section 8.02.180</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.180|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.180</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.190">
+    <oll:cite xml:lang="en">Section 8.02.190</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.190|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.190</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.200">
+    <oll:cite xml:lang="en">Section 8.02.200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.210">
+    <oll:cite xml:lang="en">Section 8.02.210</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.210|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.210</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.220">
+    <oll:cite xml:lang="en">Section 8.02.220</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.220|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.220</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.230">
+    <oll:cite xml:lang="en">Section 8.02.230</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.230|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.230</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.240">
+    <oll:cite xml:lang="en">Section 8.02.240</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.240|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.240</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.250">
+    <oll:cite xml:lang="en">Section 8.02.250</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.250|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.250</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.260">
+    <oll:cite xml:lang="en">Section 8.02.260</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.260|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.260</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.270">
+    <oll:cite xml:lang="en">Section 8.02.270</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.270|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.270</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.280">
+    <oll:cite xml:lang="en">Section 8.02.280</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.280|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.280</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.290">
+    <oll:cite xml:lang="en">Section 8.02.290</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.290|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.290</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.300">
+    <oll:cite xml:lang="en">Section 8.02.300</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.300|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.300</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.310">
+    <oll:cite xml:lang="en">Section 8.02.310</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.310|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.310</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.320">
+    <oll:cite xml:lang="en">Section 8.02.320</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.320|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.320</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.330">
+    <oll:cite xml:lang="en">Section 8.02.330</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.330|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.330</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.350">
+    <oll:cite xml:lang="en">Section 8.02.350</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.350|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.350</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.370">
+    <oll:cite xml:lang="en">Section 8.02.370</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.370|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.370</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.400">
+    <oll:cite xml:lang="en">Section 8.02.400</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.400|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.400</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.420">
+    <oll:cite xml:lang="en">Section 8.02.420</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.420|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.420</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.430">
+    <oll:cite xml:lang="en">Section 8.02.430</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.430|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.430</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.440">
+    <oll:cite xml:lang="en">Section 8.02.440</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.440|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.440</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.450">
+    <oll:cite xml:lang="en">Section 8.02.450</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.450|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.450</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.460">
+    <oll:cite xml:lang="en">Section 8.02.460</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.460|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.460</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.470">
+    <oll:cite xml:lang="en">Section 8.02.470</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.470|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.470</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.480">
+    <oll:cite xml:lang="en">Section 8.02.480</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.480|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.480</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.490">
+    <oll:cite xml:lang="en">Section 8.02.490</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">City of San Mateo, Cal., Code|8|8.02|8.02.490|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/ca/cities/san-mateo/code/8.02.490</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/_changes">
+    <rdf:_10 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.060"/>
+    <rdf:_11 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.070"/>
+    <rdf:_12 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.080"/>
+    <rdf:_13 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.090"/>
+    <rdf:_14 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.100"/>
+    <rdf:_15 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.105"/>
+    <rdf:_16 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.110"/>
+    <rdf:_17 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.115"/>
+    <rdf:_18 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.120"/>
+    <rdf:_19 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.130"/>
+    <rdf:_1 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.002"/>
+    <rdf:_20 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.140"/>
+    <rdf:_21 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.150"/>
+    <rdf:_22 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.160"/>
+    <rdf:_23 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.170"/>
+    <rdf:_24 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.180"/>
+    <rdf:_25 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.190"/>
+    <rdf:_26 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.200"/>
+    <rdf:_27 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.210"/>
+    <rdf:_28 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.220"/>
+    <rdf:_29 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.230"/>
+    <rdf:_2 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.004"/>
+    <rdf:_30 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.240"/>
+    <rdf:_31 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.250"/>
+    <rdf:_32 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.260"/>
+    <rdf:_33 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.270"/>
+    <rdf:_34 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.280"/>
+    <rdf:_35 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.290"/>
+    <rdf:_36 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.300"/>
+    <rdf:_37 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.310"/>
+    <rdf:_38 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.320"/>
+    <rdf:_39 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.330"/>
+    <rdf:_3 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.006"/>
+    <rdf:_40 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.350"/>
+    <rdf:_41 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.370"/>
+    <rdf:_42 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.400"/>
+    <rdf:_43 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.420"/>
+    <rdf:_44 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.430"/>
+    <rdf:_45 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.440"/>
+    <rdf:_46 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.450"/>
+    <rdf:_47 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.460"/>
+    <rdf:_48 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.470"/>
+    <rdf:_49 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.480"/>
+    <rdf:_4 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.010"/>
+    <rdf:_50 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.490"/>
+    <rdf:_5 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.020"/>
+    <rdf:_6 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.030"/>
+    <rdf:_7 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.040"/>
+    <rdf:_8 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.045"/>
+    <rdf:_9 rdf:resource="https://law.cityofsanmateo.org/_publication/2024-09-16/_date/2024-03-21/us/ca/cities/san-mateo/code/8.02.050"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
