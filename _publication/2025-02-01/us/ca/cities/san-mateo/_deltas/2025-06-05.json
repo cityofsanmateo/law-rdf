@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": null,
+      "url": "/",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "docs_changes": {
+        "Editor Action 2025-06-05": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.29",
+      "ptag": "container",
+      "cite": "Chapter 2.29",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.29",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.29|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Editor Action 2025-06-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/ca/cities/san-mateo/editorial-actions/2025-06-05",
+      "doc_mpath": "Editor Action 2025-06-05|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-02-01",
+  "codified_date": "2025-06-05",
+  "reasons": {
+    "Editor Action 2025-06-05": [
+      "created"
+    ]
+  }
+}
