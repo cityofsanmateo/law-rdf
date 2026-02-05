@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.29.010",
+      "ptag": "section",
+      "cite": "Section 2.29.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.29.010",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.29|2.29.010|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2025-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2025/7",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2025-07|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-02-05",
+  "codified_date": "2025-10-15",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2025-07": [
+      "effective"
+    ]
+  }
+}
