@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.80.030",
+      "ptag": "section",
+      "cite": "Section 2.80.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.80.030",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.80|2.80.030|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.80.055",
+      "ptag": "section",
+      "cite": "Section 2.80.055",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.80.055",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.80|2.80.055|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Ord. No. 2025-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/ordinances/2025/6",
+      "doc_mpath": "City of San Mateo, Cal., Ord. No. 2025-06|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/ordinances|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-02-17",
+  "codified_date": "2026-01-01",
+  "reasons": {
+    "City of San Mateo, Cal., Ord. No. 2025-06": [
+      "effective"
+    ]
+  }
+}
