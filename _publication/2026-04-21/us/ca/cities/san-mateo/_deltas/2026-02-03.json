@@ -1,0 +1,351 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "us/ca/cities/san-mateo/editorial-actions",
+      "url": "",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/editorial-actions|",
+      "docs_changes": {
+        "Editor Action 2026-02-03": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|10.100",
+      "ptag": "container",
+      "cite": "Chapter 10.100",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/10.100",
+      "doc_mpath": "City of San Mateo, Cal., Code|10|10.100|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|10.28",
+      "ptag": "container",
+      "cite": "Chapter 10.28",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/10.28",
+      "doc_mpath": "City of San Mateo, Cal., Code|10|10.28|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|10.90",
+      "ptag": "container",
+      "cite": "Chapter 10.90",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/10.90",
+      "doc_mpath": "City of San Mateo, Cal., Code|10|10.90|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|11.29",
+      "ptag": "container",
+      "cite": "Chapter 11.29",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/11.29",
+      "doc_mpath": "City of San Mateo, Cal., Code|11|11.29|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|11.30",
+      "ptag": "container",
+      "cite": "Chapter 11.30",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/11.30",
+      "doc_mpath": "City of San Mateo, Cal., Code|11|11.30|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|13.40",
+      "ptag": "container",
+      "cite": "Chapter 13.40",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/13.40",
+      "doc_mpath": "City of San Mateo, Cal., Code|13|13.40|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.05",
+      "ptag": "container",
+      "cite": "Chapter 2.05",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.05",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.05|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.22",
+      "ptag": "container",
+      "cite": "Chapter 2.22",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.22",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.22|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|2.29",
+      "ptag": "container",
+      "cite": "Chapter 2.29",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/2.29",
+      "doc_mpath": "City of San Mateo, Cal., Code|2|2.29|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.29",
+      "ptag": "container",
+      "cite": "Chapter 23.29",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.29",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.29|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.30",
+      "ptag": "container",
+      "cite": "Chapter 23.30",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.30",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.30|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.36",
+      "ptag": "container",
+      "cite": "Chapter 23.36",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.36",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.36|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.38",
+      "ptag": "container",
+      "cite": "Chapter 23.38",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.38",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.38|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.65",
+      "ptag": "container",
+      "cite": "Chapter 23.65",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.65",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.65|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|23.70",
+      "ptag": "container",
+      "cite": "Chapter 23.70",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/23.70",
+      "doc_mpath": "City of San Mateo, Cal., Code|23|23.70|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.21",
+      "ptag": "container",
+      "cite": "Chapter 27.21",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.21",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.21|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|I",
+      "ptag": "container",
+      "cite": "Article I",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.21/I",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.21|I|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|II",
+      "ptag": "container",
+      "cite": "Article II",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.21/II",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.21|II|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|27.94",
+      "ptag": "container",
+      "cite": "Chapter 27.94",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/27.94",
+      "doc_mpath": "City of San Mateo, Cal., Code|27|27.94|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|3.35",
+      "ptag": "container",
+      "cite": "Chapter 3.35",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/3.35",
+      "doc_mpath": "City of San Mateo, Cal., Code|3|3.35|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|5.66",
+      "ptag": "container",
+      "cite": "Chapter 5.66",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/5.66",
+      "doc_mpath": "City of San Mateo, Cal., Code|5|5.66|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|5.89",
+      "ptag": "container",
+      "cite": "Chapter 5.89",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/5.89",
+      "doc_mpath": "City of San Mateo, Cal., Code|5|5.89|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.35",
+      "ptag": "container",
+      "cite": "Chapter 7.35",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.35",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.35|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "City of San Mateo, Cal., Code",
+      "path": "|7.50",
+      "ptag": "container",
+      "cite": "Chapter 7.50",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/ca/cities/san-mateo/code/7.50",
+      "doc_mpath": "City of San Mateo, Cal., Code|7|7.50|",
+      "lib_mpath": "cityofsanmateo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Editor Action 2026-02-03",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/ca/cities/san-mateo/editorial-actions/2026-02-03",
+      "doc_mpath": "Editor Action 2026-02-03|",
+      "lib_mpath": "cityofsanmateo/law-rdf|us/ca/cities/san-mateo/editorial-actions|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-04-21",
+  "codified_date": "2026-02-03",
+  "reasons": {
+    "Editor Action 2026-02-03": [
+      "created",
+      "effective"
+    ]
+  }
+}
